@@ -7,7 +7,7 @@ service to final payments.
 The COVID pandemic has had a significant impact on India's employment rate. People with non-technical backgrounds, in particular, are having a difficult time finding work. Despite the fact that household jobs are in great demand, people are still not able to locate the ideal candidate. Our project, Odd Job Finder aims to bridge this gap between the employer and the job seeker. Everyone now has access to a smartphone, thanks to technological advancements. Using this online platform, the user(customer) will be able to search across different odd job categories and select one according to their needs. The customer can select an appropriate candidate for the job and send him/her request. The job seeker can choose to accept or reject the job based on the job description and salary details. In this way, Odd Job Finder provides an efficient platform for communication between the employer and the job seeker.
 ## Tech Stack
 
-**Client:** React, Redux, HTML, CSS, JavaScript
+**Client:** React, HTML, CSS, JavaScript
 
 **Server:** Nodejs, Express
 
